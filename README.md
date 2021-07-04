@@ -1,6 +1,8 @@
 # Aquarium Boss
 Run an aquarium! Feed sharks! What could go wrong? Rust port of a C++ command line game I had coded previously.
 
+<img src="https://github.com/wrongenvelope/aquarium_boss/blob/main/screen1.png" width ="550">
+
 ##### Why did this interest me?
 <blockquote>
 The original C++ game has sentimental value to me--I coded it for an introductory course after failing the previous assignment (hello seg fault during the demo!). It was the last term of a year where professors and teaching assistants alike seemed intent on scaring me out of engineering with comments like, "this is NOT hard" and, "well, people are either naturals at programming, or they aren't." I inferred their meanings loud and clear: if it was hard, I wasn't a natural and had no place there.
